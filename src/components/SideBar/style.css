@@ -1,0 +1,14 @@
+.modal {
+    margin: auto;
+    text-align: center;
+}
+
+.data-point {
+    
+    display: flex;
+    align-items: center;
+}
+
+.data-point-h3 {
+    margin-right: 30px;
+}

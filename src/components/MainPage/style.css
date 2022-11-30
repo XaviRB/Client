@@ -1,0 +1,29 @@
+.main-box {
+
+    width: 70%;
+    margin: 20px auto;
+    padding-top: 50px;
+    border: 1px solid #ddd;
+}
+
+.mission-state {
+    padding: 20px;
+
+}
+
+.contact-h1 {
+    text-align: center;
+}
+
+.contact-form {
+    margin: auto;
+    display: flex;
+    flex: auto;
+}
+
+.contact-outer {
+    width: 70%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin: 30px auto;
+}

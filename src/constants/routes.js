@@ -1,0 +1,8 @@
+export const HOME = '/'
+export const REGMENU = '/register'
+export const MAINPAGE = '/mainpage'
+export const PROFILEPAGE = '/profilepage'
+export const SETTINGPAGE = '/profilepage'
+export const HELPPAGE = '/help'
+export const MESSAGING = '/messages'
+export const LOG_IN = './login'
